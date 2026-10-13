@@ -2,12 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,18,24,30&height=230&section=header&text=Ramdeep%20Kesharwani&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Laravel%20%7C%20Bagisto%20%7C%20Filament%20%7C%20Aureus%20ERP%20Developer&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=820&lines=Laravel+%26+Bagisto+Developer+%F0%9F%9A%80;Multi-Vendor+Marketplace+Developer+%F0%9F%9B%92;Filament+Admin+Panel+Developer+%F0%9F%8E%9B%EF%B8%8F;Aureus+ERP+Plugin+Developer+%F0%9F%8F%A2;Playwright+E2E+Automation+%F0%9F%A7%AA;Open+Source+at+Webkul+%F0%9F%8C%9F" />
+<img src="https://readme-typing-svg.demolab.com?userfont=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=820&lines=Laravel+%26+Bagisto+Developer+%F0%9F%9A%80;Multi-Vendor+Marketplace+Developer+%F0%9F%9B%92;Filament+Admin+Panel+Developer+%F0%9F%8E%9B%EF%B8%8F;Aureus+ERP+Plugin+Developer+%F0%9F%8F%A2;Playwright+E2E+Automation+%F0%9F%A7%AA;Open+Source+at+Webkul+%F0%9F%8C%9F" />
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=F75C7E&style=for-the-badge" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=A855F7&logo=github" /></a>
+<a href="https://github.com/ramdeep-webkul"><img src="https://komarev.com/ghpvc/?username=ramdeep-webkul&label=Profile%20Views&color=F75C7E&style=for-the-badge" /></a>
+<a href="https://github.com/ramdeep-webkul"><img src="https://img.shields.io/github/followers/ramdeep-webkul?label=Followers&style=for-the-badge&color=A855F7&logo=github" /></a>
 <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-Developer-F75C7E?style=for-the-badge&logo=laravel&logoColor=white" /></a>
 <a href="https://filamentphp.com"><img src="https://img.shields.io/badge/Filament-Developer-F59E0B?style=for-the-badge&logo=laravel&logoColor=white" /></a>
 <a href="https://webkul.com"><img src="https://img.shields.io/badge/Webkul-Developer-A855F7?style=for-the-badge" /></a>
@@ -172,12 +172,12 @@ class RamdeepKesharwani
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=F75C7E&icon_color=A855F7" />
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=F75C7E" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=ramdeep-webkul&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=F75C7E&icon_color=A855F7" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdeep-webkul&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=F75C7E" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=F75C7E&fire=A855F7&currStreakLabel=F75C7E" />
+<img src="https://streak-stats.demolab.com?user=ramdeep-webkul&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=F75C7E&fire=A855F7&currStreakLabel=F75C7E" />
 
 </div>
 
@@ -190,7 +190,7 @@ class RamdeepKesharwani
 > 💡 *Enable [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action to auto-fill commits per day, per hour, and language time below.*
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true&area=true&color=F75C7E&line=A855F7&point=FFFFFF&bg_color=00000000" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramdeep-webkul&theme=redical&hide_border=true&area=true&color=F75C7E&line=A855F7&point=FFFFFF&bg_color=00000000" width="100%" />
 
 </div>
 
@@ -199,7 +199,7 @@ class RamdeepKesharwani
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=ramdeep-webkul&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489f4c9e233/images/footer.svg" />
