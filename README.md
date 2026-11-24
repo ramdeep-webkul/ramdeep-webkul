@@ -108,15 +108,15 @@ Developer docs for Aureus ERP — documentation contributions.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ramdeep-webkul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=A78BFA&icon_color=22D3EE">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ramdeep-webkul&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=6D28D9&icon_color=0E7490">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=ramdeep-webkul&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=6D28D9&icon_color=0E7490" alt="GitHub statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ramdeep-webkul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=A78BFA&icon_color=22D3EE&text_color=E6EDF3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ramdeep-webkul&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=6D28D9&icon_color=0E7490&text_color=1F2328">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=ramdeep-webkul&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=6D28D9&icon_color=0E7490&text_color=1F2328" alt="GitHub statistics" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdeep-webkul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=A78BFA&icon_color=22D3EE">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdeep-webkul&layout=compact&theme=default&hide_border=true&langs_count=8&bg_color=00000000&title_color=6D28D9&icon_color=0E7490">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdeep-webkul&layout=compact&theme=default&hide_border=true&langs_count=8&bg_color=00000000&title_color=6D28D9&icon_color=0E7490" alt="Most-used languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdeep-webkul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=A78BFA&icon_color=22D3EE&text_color=E6EDF3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdeep-webkul&layout=compact&theme=default&hide_border=true&langs_count=8&bg_color=00000000&title_color=6D28D9&icon_color=0E7490&text_color=1F2328">
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdeep-webkul&layout=compact&theme=default&hide_border=true&langs_count=8&bg_color=00000000&title_color=6D28D9&icon_color=0E7490&text_color=1F2328" alt="Most-used languages" />
 </picture>
 
 <br/>
@@ -127,6 +127,21 @@ Developer docs for Aureus ERP — documentation contributions.
   <img src="https://streak-stats.demolab.com?user=ramdeep-webkul&theme=default&hide_border=true&background=00000000&ring=6D28D9&fire=0E7490&currStreakLabel=6D28D9&currStreakNum=1F2328&sideNums=1F2328&sideLabels=6D28D9&dates=59636E&stroke=D0D7DE" alt="GitHub contribution streak" />
 </picture>
 
+### 📈 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-steel-two.vercel.app/graph?username=ramdeep-webkul&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=22D3EE">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-steel-two.vercel.app/graph?username=ramdeep-webkul&theme=minimal&hide_border=true&area=true&color=6D28D9&line=6D28D9&point=0E7490">
+  <img width="100%" src="https://github-readme-activity-graph-steel-two.vercel.app/graph?username=ramdeep-webkul&theme=minimal&hide_border=true&area=true&color=6D28D9&line=6D28D9&point=0E7490" alt="Contribution activity graph" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=ramdeep-webkul&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=ramdeep-webkul&theme=flat&no-frame=true&no-bg=true&row=1&column=6">
+  <img width="100%" src="https://trophy.ryglcloud.net/?username=ramdeep-webkul&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</picture>
 
 </div>
 
