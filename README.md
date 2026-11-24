@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6D28D9,100:0891B2&height=110&section=header">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=110&section=header">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=110&section=header" alt="Ramdeep Kesharwani — Laravel, Bagisto, Filament and Aureus ERP Developer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A%2C50:6D28D9%2C100:0891B2&height=110&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE%2C50:DDD6FE%2C100:CFFAFE&height=110&section=header">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE%2C50:DDD6FE%2C100:CFFAFE&height=110&section=header" alt="Ramdeep Kesharwani — Laravel, Bagisto, Filament and Aureus ERP Developer" />
 </picture>
 
 <h1>Ramdeep Kesharwani</h1>
@@ -86,9 +86,9 @@ Developer docs for Aureus ERP — documentation contributions.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,nodejs,vue,js,ts,html,css,tailwind,alpinejs,bootstrap,mysql,postgresql,redis,docker,gitlab,github,git,linux,nginx,bash,vscode,playwright&theme=dark&perline=12">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,laravel,nodejs,vue,js,ts,html,css,tailwind,alpinejs,bootstrap,mysql,postgresql,redis,docker,gitlab,github,git,linux,nginx,bash,vscode,playwright&theme=light&perline=12">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,vue,js,ts,html,css,tailwind,alpinejs,bootstrap,mysql,postgresql,redis,docker,gitlab,github,git,linux,nginx,bash,vscode,playwright&theme=light&perline=12" alt="Tech stack icons" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Claravel%2Cnodejs%2Cvue%2Cjs%2Cts%2Chtml%2Ccss%2Ctailwind%2Calpinejs%2Cbootstrap%2Cmysql%2Cpostgresql%2Credis%2Cdocker%2Cgitlab%2Cgithub%2Cgit%2Clinux%2Cnginx%2Cbash%2Cvscode%2Cplaywright&theme=dark&perline=12">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php%2Claravel%2Cnodejs%2Cvue%2Cjs%2Cts%2Chtml%2Ccss%2Ctailwind%2Calpinejs%2Cbootstrap%2Cmysql%2Cpostgresql%2Credis%2Cdocker%2Cgitlab%2Cgithub%2Cgit%2Clinux%2Cnginx%2Cbash%2Cvscode%2Cplaywright&theme=light&perline=12">
+  <img src="https://skillicons.dev/icons?i=php%2Claravel%2Cnodejs%2Cvue%2Cjs%2Cts%2Chtml%2Ccss%2Ctailwind%2Calpinejs%2Cbootstrap%2Cmysql%2Cpostgresql%2Credis%2Cdocker%2Cgitlab%2Cgithub%2Cgit%2Clinux%2Cnginx%2Cbash%2Cvscode%2Cplaywright&theme=light&perline=12" alt="Tech stack icons" />
 </picture>
 
 </div>
@@ -127,11 +127,6 @@ Developer docs for Aureus ERP — documentation contributions.
   <img src="https://streak-stats.demolab.com?user=ramdeep-webkul&theme=default&hide_border=true&background=00000000&ring=6D28D9&fire=0E7490&currStreakLabel=6D28D9&currStreakNum=1F2328&sideNums=1F2328&sideLabels=6D28D9&dates=59636E&stroke=D0D7DE" alt="GitHub contribution streak" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/A78BFA/ramdeep-webkul">
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/6D28D9/ramdeep-webkul">
-  <img width="100%" src="https://ghchart.rshah.org/6D28D9/ramdeep-webkul" alt="Contribution calendar" />
-</picture>
 
 </div>
 
@@ -158,9 +153,9 @@ Write code for the next developer · Every bug is a missing test · Automate any
 **Thanks for visiting! 👋**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6D28D9,100:0891B2&height=110&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=110&section=footer">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=110&section=footer" alt="Thanks for visiting" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A%2C50:6D28D9%2C100:0891B2&height=110&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE%2C50:DDD6FE%2C100:CFFAFE&height=110&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE%2C50:DDD6FE%2C100:CFFAFE&height=110&section=footer" alt="Thanks for visiting" />
 </picture>
 
 </div>
