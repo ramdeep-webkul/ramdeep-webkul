@@ -1,10 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6D28D9,100:0891B2&height=240&section=header&text=Ramdeep%20Kesharwani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Laravel%20%7C%20Bagisto%20%7C%20Filament%20%7C%20Aureus%20ERP%20Developer&descAlignY=58&descSize=17&descColor=A5F3FC">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=240&section=header&text=Ramdeep%20Kesharwani&fontSize=50&fontColor=4C1D95&fontAlignY=38&desc=Laravel%20%7C%20Bagisto%20%7C%20Filament%20%7C%20Aureus%20ERP%20Developer&descAlignY=58&descSize=17&descColor=155E75">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=240&section=header&text=Ramdeep%20Kesharwani&fontSize=50&fontColor=4C1D95&fontAlignY=38&desc=Laravel%20%7C%20Bagisto%20%7C%20Filament%20%7C%20Aureus%20ERP%20Developer&descAlignY=58&descSize=17&descColor=155E75" alt="Ramdeep Kesharwani — Laravel, Bagisto, Filament and Aureus ERP Developer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6D28D9,100:0891B2&height=110&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=110&section=header">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=110&section=header" alt="Ramdeep Kesharwani — Laravel, Bagisto, Filament and Aureus ERP Developer" />
 </picture>
+
+<h1>Ramdeep Kesharwani</h1>
+
+<h3>Laravel | Bagisto | Filament | Aureus ERP Developer</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Laravel+%26+Bagisto+Developer+%F0%9F%9A%80;Multi-Vendor+Marketplace+Builder+%F0%9F%9B%92;Filament+Admin+Panels+%F0%9F%8E%9B%EF%B8%8F;Aureus+ERP+Plugins+%F0%9F%8F%A2;Playwright+E2E+Automation+%F0%9F%A7%AA">
@@ -124,9 +128,9 @@ Developer docs for Aureus ERP — documentation contributions.
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-steel-two.vercel.app/graph?username=ramdeep-webkul&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=22D3EE">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-steel-two.vercel.app/graph?username=ramdeep-webkul&theme=minimal&hide_border=true&area=true&color=6D28D9&line=6D28D9&point=0E7490">
-  <img width="100%" src="https://github-readme-activity-graph-steel-two.vercel.app/graph?username=ramdeep-webkul&theme=minimal&hide_border=true&area=true&color=6D28D9&line=6D28D9&point=0E7490" alt="Contribution activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/A78BFA/ramdeep-webkul">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/6D28D9/ramdeep-webkul">
+  <img width="100%" src="https://ghchart.rshah.org/6D28D9/ramdeep-webkul" alt="Contribution calendar" />
 </picture>
 
 </div>
@@ -151,10 +155,12 @@ Write code for the next developer · Every bug is a missing test · Automate any
 
 <div align="center">
 
+**Thanks for visiting! 👋**
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6D28D9,100:0891B2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=4C1D95&fontAlignY=65">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=4C1D95&fontAlignY=65" alt="Thanks for visiting" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6D28D9,100:0891B2&height=110&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=110&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:CFFAFE&height=110&section=footer" alt="Thanks for visiting" />
 </picture>
 
 </div>
